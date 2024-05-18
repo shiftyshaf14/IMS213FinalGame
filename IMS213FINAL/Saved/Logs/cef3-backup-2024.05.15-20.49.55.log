@@ -1,0 +1,20 @@
+[0515/164513.342:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164513.361:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164515.583:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164515.596:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164537.478:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164537.478:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164537.497:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164537.498:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164621.540:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164621.547:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164621.552:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164621.565:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164630.349:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164630.349:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164630.367:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164630.367:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164642.154:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164642.172:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/164710.470:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0515/164955.523:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.

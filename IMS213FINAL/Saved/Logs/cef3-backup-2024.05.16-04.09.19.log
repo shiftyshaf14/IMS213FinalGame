@@ -1,0 +1,16 @@
+[0515/211415.797:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211415.814:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211416.982:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211416.989:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211417.001:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211417.001:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0515/211418.462:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[0515/211418.486:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[0515/211602.634:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0515/220255.219:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0515/220255.225:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0515/220300.226:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0515/220300.227:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0515/221444.113:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0515/221444.171:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0516/000919.923:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
